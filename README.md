@@ -1,0 +1,3 @@
+- A bot manager (rework of sown script)
+- add your keys in ./clee.txt
+- set ur bot in ./upload
